@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atelier-anchor.com/sitemap.xml
